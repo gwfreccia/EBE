@@ -14,3 +14,8 @@ A leitura de Attarieh discute limitações de mensuração, amostragem e interpr
 - [Hansford et al. (2022) — Qualidade de relato e dose de exercício](https://gwfreccia.github.io/EBE/artigos/hansford-2022/)
 
 A leitura de Hansford reúne as três tabelas, gráficos CERT/TIDieR reconstruídos dos dados públicos e explorações didáticas sobre informação ausente e sua recuperação. O texto distingue completude de relato, risco de viés e eficácia.
+
+- [Guillermou et al. (2026) — Exercício e mortalidade em pessoas com câncer](https://gwfreccia.github.io/EBE/artigos/guillermou-2026/)
+- [Scott et al. (2023) — Exercício durante ou após a quimioterapia?](https://gwfreccia.github.io/EBE/artigos/scott-2023/)
+
+As leituras incluem gráficos reconstruídos, tabelas e conceitos explicados no contexto. Guillermou diferencia a estimativa publicada da auditoria por contagens; Scott distingue a comparação primária das análises secundárias e inclui as tabelas suplementares. Os HTMLs incorporam fontes e scripts; os textos das licenças tipográficas acompanham cada leitura.
